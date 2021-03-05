@@ -1,0 +1,65 @@
+:root {
+    --primary-color: #9d9974
+}
+
+body {
+    margin: -7vh -3vh;
+}
+
+nav {
+    background-color: var(--primary-color);
+    text-align: center;
+    font-size: xx-large;
+    height: 15vh;
+}
+
+h1 {
+    padding: 5vh;
+    font-family: monospace;
+}
+
+textarea {
+    display: block;
+    height: 15vh;
+    width: 80%;
+    margin: 3vh auto;
+    padding: 1vh;
+}
+
+button {
+    border: 1px solid black;
+    text-align: center;
+    margin: 30px 650px;
+    background-color: var(--primary-color);
+    padding: 10px;
+    border-radius: 5%;
+}
+
+#texts {
+    text-align: center;
+}
+
+#output {
+    height: 15vh;
+    width: 80%;
+    border: 1px solid black;
+    margin: 1vh auto;
+    padding: 1vh;
+}
+
+footer {
+    background-color: var(--primary-color);
+    text-align: center;
+    height: 25vh;
+}
+
+h3 {
+    padding: -10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+p {
+    font-family: sans-serif;
+    margin: -1vh;
+}
