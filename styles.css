@@ -27,9 +27,8 @@ textarea {
 }
 
 button {
-    border: 1px solid black;
-    text-align: center;
-    margin: 30px 650px;
+    display: block;
+    margin: 30px auto;
     background-color: var(--primary-color);
     padding: 10px;
     border-radius: 5%;
